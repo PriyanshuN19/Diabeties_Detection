@@ -133,8 +133,3 @@ Feel free to raise issues or contribute improvements!
 ## 📄 License
 
 This project is open-source and free to use.
-
-
-
-Just say the word. 🚀
-```
